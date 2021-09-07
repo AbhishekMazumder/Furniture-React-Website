@@ -26,6 +26,7 @@ const CheckoutPage = () => {
 		</main>
 	);
 };
+
 const Wrapper = styled.div`
 	display: flex;
 	align-items: center;
